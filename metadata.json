@@ -1,0 +1,6 @@
+{
+  "name": "Watermark Remover",
+  "description": "A client-side tool to remove watermarks from images and videos using mathematical reverse alpha blending, working 100% locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
